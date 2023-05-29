@@ -25,16 +25,16 @@ Our agent has two types of controllers. The main controller ensures that the age
 
 The simulated environment is a pit, in which our agent is placed. The pit starts steep, and slowly gets less steep. Our agent has to get out of this pit as quickly as possible. The task is finished when the agent either escapes the pit, or takes more than one minute to escape. Performance is either based on the speed in which the robot was able to escape the pit, or how close it was to escaping.
 
-	Video of the agent completing the task
+	Video of the agent completing the task (clicking the link will redirect you to the video recording of the pit escape in OneDrive)
 
 https://1drv.ms/v/s!AivNv6z-gRHAgccVEIDetlhVlpWPog?e=S8BLka
 
 	Source code
 
-The source code of our agent can be found in this repository
+The source code of our agent can be found in this repository under the name "Source_code_BB8.ipynb".
 
 
-	Experience with actual and simulated agent
+	Experience with an actual and simulated agent
 Working with the Arduino kit for creating the autonomous agent was a fun experience and a great introduction to hardware. Not only did we learn to work with basic components of an autonomous agent, we also had to put our creative minds to work. Overall, we really enjoyed this project, even though it was challenging.
 
 The simulation project is a nice opportunity to get some experience with an autonomous and simulated agent, in a way that we have not yet seen in other courses. This way we got to see how our programming skills learned during our study can be used in real-life applications.

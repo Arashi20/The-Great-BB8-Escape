@@ -50,15 +50,21 @@ Unfortunately, we are not completely certain our reasoning is completely sound a
 	Author contributions
 
 Introduction: Noa
+
 Components description: Noa and Tamar
+
 Video recording: Tamar
+
 Source code: Tessa and Arash
+
 Experience description: Everyone
 
 
 	Resources
 
 Sánchez, C. (n.d.). How Does BB-8 Work? How Does BB-8 Work? Retrieved 18 May 2023, from http://www.howbb8works.com
+
+Webots documentation: Sphero’s BB-8. (n.d.). Retrieved 18 May 2023, from https://cyberbotics.com/doc/guide/bb8
 
 
 
